@@ -1,0 +1,143 @@
+1677475408806	geckodriver	INFO	Listening on 127.0.0.1:55866
+1677475409321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55867" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileqG9DXe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677475410089	Marionette	INFO	Marionette enabled
+2023-02-27 10:53:30.280 plugin-container[3262:234831] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 10:53:30.280 plugin-container[3262:234831] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 10:53:30.294 plugin-container[3262:234831] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 10:53:30.294 plugin-container[3262:234831] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 10:53:30.294 plugin-container[3262:234829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 10:53:30.294 plugin-container[3262:234829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677475410484	Marionette	INFO	Listening on port 55872
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55872
+WebDriver BiDi listening on ws://127.0.0.1:55867
+1677475410646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileqG9DXe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55867/devtools/browser/f197eaa7-ddfe-48e4-8609-e2f3e223e368
+1677476641562	geckodriver	INFO	Listening on 127.0.0.1:55970
+1677476642077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55971" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileVTTBrZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677476642692	Marionette	INFO	Marionette enabled
+1677476642805	Marionette	INFO	Listening on port 55976
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55976
+2023-02-27 11:14:02.918 plugin-container[3321:240722] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 11:14:02.918 plugin-container[3321:240722] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 11:14:02.941 plugin-container[3321:240722] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 11:14:02.941 plugin-container[3321:240722] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 11:14:02.941 plugin-container[3321:240721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 11:14:02.942 plugin-container[3321:240721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55971
+1677476643337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileVTTBrZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55971/devtools/browser/2bc54605-eb3e-4208-8d48-fa2856a6ff80
+1677478223994	Marionette	INFO	Stopped listening on port 55872
+1677478227684	Marionette	INFO	Stopped listening on port 55976
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677479015750	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1677479562152	geckodriver	INFO	Listening on 127.0.0.1:56640
+1677479562666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56641" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileuT2pp9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677479563298	Marionette	INFO	Marionette enabled
+1677479563417	Marionette	INFO	Listening on port 56646
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56646
+2023-02-27 12:02:43.530 plugin-container[3746:261548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 12:02:43.531 plugin-container[3746:261548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 12:02:43.539 plugin-container[3746:261548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 12:02:43.539 plugin-container[3746:261548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 12:02:43.539 plugin-container[3746:261550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 12:02:43.539 plugin-container[3746:261550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56641
+1677479563806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileuT2pp9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56641/devtools/browser/e233ff78-290e-4f93-96ae-bb49fe133d9f
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677498867184	geckodriver	INFO	Listening on 127.0.0.1:57677
+1677498867647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57678" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile6U9GlK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677498868670	Marionette	INFO	Marionette enabled
+2023-02-27 17:24:28.861 plugin-container[4371:340198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 17:24:28.862 plugin-container[4371:340198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 17:24:28.870 plugin-container[4371:340198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 17:24:28.871 plugin-container[4371:340198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-27 17:24:28.873 plugin-container[4371:340197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-27 17:24:28.873 plugin-container[4371:340197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677498869079	Marionette	INFO	Listening on port 57683
+Read port: 57683
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57678
+1677498869241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile6U9GlK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57678/devtools/browser/5a3c9715-9d6e-4505-8654-808a1a01ca4a
+1677498872515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677498875535	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677498958039	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677498967823	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://static.clovia.com/static/dist/category_desktop-bc98b4cc03fa3f2cfcb0.js, line 2: TypeError: t.state.data is null
+JavaScript error: https://static.clovia.com/static/dist/category_desktop-bc98b4cc03fa3f2cfcb0.js, line 2: TypeError: t.state.data is null
+JavaScript error: https://static.clovia.com/static/dist/category_desktop-bc98b4cc03fa3f2cfcb0.js, line 2: TypeError: t.state.data is null
+1677499014490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677499768756	Marionette	INFO	Stopped listening on port 57683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1677499768840	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:207
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1677500985460	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677501618379	Marionette	INFO	Stopped listening on port 56646
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677565768946	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1677565846758	geckodriver	INFO	Listening on 127.0.0.1:60886
+1677565847274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60887" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileYZ3pa8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677565847887	Marionette	INFO	Marionette enabled
+2023-02-28 12:00:48.046 plugin-container[5889:463244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:00:48.046 plugin-container[5889:463244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-28 12:00:48.050 plugin-container[5889:463244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:00:48.050 plugin-container[5889:463244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-28 12:00:48.051 plugin-container[5889:463241] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:00:48.051 plugin-container[5889:463241] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677565848241	Marionette	INFO	Listening on port 60893
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60893
+WebDriver BiDi listening on ws://127.0.0.1:60887
+1677565848390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileYZ3pa8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60887/devtools/browser/5bcb3964-931f-4edd-a7ed-b9cab4a23a89
+1677567899078	Marionette	INFO	Stopped listening on port 60893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677567984859	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1677568121875	geckodriver	INFO	Listening on 127.0.0.1:62139
+1677568122352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62140" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile6elnGl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677568123330	Marionette	INFO	Marionette enabled
+1677568123458	Marionette	INFO	Listening on port 62145
+Read port: 62145
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-02-28 12:38:43.602 plugin-container[6315:486276] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:38:43.603 plugin-container[6315:486276] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-28 12:38:43.614 plugin-container[6315:486276] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:38:43.614 plugin-container[6315:486276] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-28 12:38:43.615 plugin-container[6315:486277] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-28 12:38:43.615 plugin-container[6315:486277] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62140
+1677568123970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofile6elnGl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62140/devtools/browser/4395a401-8741-4ed0-90cb-b67282d1bbcb

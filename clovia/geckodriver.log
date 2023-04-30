@@ -1,0 +1,99 @@
+1677303808748	geckodriver	INFO	Listening on 127.0.0.1:49404
+1677303809215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49405" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilexocGLj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677303809911	Marionette	INFO	Marionette enabled
+1677303810027	Marionette	INFO	Listening on port 49417
+Read port: 49417
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-02-25 11:13:30.131 plugin-container[802:17957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 11:13:30.131 plugin-container[802:17957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 11:13:30.136 plugin-container[802:17957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 11:13:30.136 plugin-container[802:17957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 11:13:30.137 plugin-container[802:17954] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 11:13:30.137 plugin-container[802:17954] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49405
+1677303810319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofilexocGLj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49405/devtools/browser/ca5ed4c4-5f52-41da-b7ed-ce8c1f0f4285
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:717:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:767:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:637:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1064:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:558:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1064, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1064))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:717:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:345:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.error: "Unable to find target with innerWindowId:12884901889"
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677306375602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+2023-02-25 06:26:16.708 plugin-container[946:33850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:26:16.708 plugin-container[946:33850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 06:26:16.735 plugin-container[946:33850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:26:16.736 plugin-container[946:33850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 06:26:16.737 plugin-container[946:33892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:26:16.737 plugin-container[946:33892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677306378525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677306472058	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677306472862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677306691755	geckodriver	INFO	Listening on 127.0.0.1:50172
+1677306691771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50173" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileiRmR3t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677306692366	Marionette	INFO	Marionette enabled
+2023-02-25 12:01:32.540 plugin-container[979:35847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 12:01:32.541 plugin-container[979:35847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 12:01:32.549 plugin-container[979:35847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 12:01:32.549 plugin-container[979:35847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 12:01:32.550 plugin-container[979:35850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 12:01:32.550 plugin-container[979:35850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677306692722	Marionette	INFO	Listening on port 50178
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50178
+WebDriver BiDi listening on ws://127.0.0.1:50173
+1677306692878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z4/xfxb4tn914538n5tzvc68m6m0000gn/T/rust_mozprofileiRmR3t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50173/devtools/browser/ff2b6045-9c13-41c3-993c-12ae6c79e01a
+1677306738288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+2023-02-25 06:32:19.415 plugin-container[990:36530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:32:19.416 plugin-container[990:36530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 06:32:19.424 plugin-container[990:36530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:32:19.424 plugin-container[990:36530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-25 06:32:19.425 plugin-container[990:36540] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-25 06:32:19.425 plugin-container[990:36540] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1677306741254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677306843605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677306844346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
