@@ -1,1 +1,0 @@
-ja rahi ho?
